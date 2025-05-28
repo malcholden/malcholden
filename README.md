@@ -48,4 +48,3 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 
 ---
 
-![Malcolm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malcholden&show_icons=true&theme=radical)
