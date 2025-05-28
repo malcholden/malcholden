@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Malcolm Holden 👋
 
-<!--
-**malcholden/malcholden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Engineer | React & JavaScript Enthusiast | Cyber Security Professional**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a Computer Science graduate and junior software engineer, currently sharpening my development skills while working in cyber security. I'm passionate about building engaging web experiences and learning new technologies every day.
+
+---
+
+### 🚀 Projects
+
+- **[Fit-Flock](#)**  
+  _A social media platform for joggers, runners, and bikers to connect within local communities._  
+  (Currently in development.)
+
+- **[Tic-Tac-Toe Game](#)**  
+  _A classic game built for fun and learning._
+
+- **[To-Do List](#)**  
+  _A simple and efficient task manager to boost productivity._
+
+---
+
+### 🛠️ Skills
+
+- React
+- JavaScript (ES6+)
+- Cyber Security
+- HTML & CSS
+- Git & GitHub
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/malcolm-holden/)
+
+---
+
+### 🎸 Fun Facts
+
+- I love playing guitar  
+- Avid reader  
+- Enjoy hiking and exploring the outdoors
+
+---
+
+![Malcolm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malcholden&show_icons=true&theme=radical)
