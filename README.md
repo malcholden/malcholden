@@ -19,7 +19,7 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 - **[Tic-Tac-Toe Game](#)**  
   _A classic game built for fun and learning._
 
-- **[To-Do List](#)**  
+- **[To-Do List](https://github.com/malcholden/todo-revamped)**  
   _A simple and efficient task manager to boost productivity._
 
 ---
