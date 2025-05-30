@@ -16,7 +16,7 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
   _A social media platform for joggers, runners, and bikers to connect within local communities._  
   (Currently in development.)
 
-- **[Tic-Tac-Toe Game](#)**  
+- **[Tic-Tac-Toe Game](https://github.com/malcholden/tic-tac-toe-game)**  
   _A classic game built for fun and learning._
 
 - **[To-Do List](https://github.com/malcholden/todo-revamped)**  
