@@ -1,6 +1,6 @@
 # Hi there, I'm Malcolm Holden 👋
 
-**Junior Software Engineer | React & JavaScript Enthusiast | Cyber Security Professional**
+**Junior Software Engineer | Cyber Security Professional**
 
 ---
 
@@ -30,6 +30,7 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 - JavaScript (ES6+)
 - Cyber Security
 - HTML & CSS
+- Networking
 - Git & GitHub
 
 ---
@@ -39,12 +40,3 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 - [LinkedIn](https://linkedin.com/malcolm-holden/)
 
 ---
-
-### 🎸 Fun Facts
-
-- I love playing guitar  
-- Avid reader  
-- Enjoy hiking and exploring the outdoors
-
----
-
