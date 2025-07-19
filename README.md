@@ -31,7 +31,6 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 - Cyber Security
 - HTML & CSS
 - Networking
-- Git & GitHub
 
 ---
 
