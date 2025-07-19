@@ -27,7 +27,7 @@ I'm a Computer Science graduate and junior software engineer, currently sharpeni
 ### 🛠️ Skills
 
 - React
-- JavaScript (ES6+)
+- JavaScript
 - Cyber Security
 - HTML & CSS
 - Networking
