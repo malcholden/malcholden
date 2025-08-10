@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate and junior software engineer, currently sharpening my development skills while working in cyber security. I'm passionate about building engaging web experiences and learning new technologies every day.
+I'm a Computer Science graduate and junior software engineer, currently sharpening my development skills while working in cyber security.
 
 ---
 
